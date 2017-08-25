@@ -25,7 +25,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Example Vote Site</title>
+        <title>PhoVote</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="stylesheet" href="style.css" type="text/css">
@@ -51,7 +51,7 @@
     
         <!--Header-->
             <span class="textbg nohref">
-                <a href="index.php"><u><b>Example Vote Site</b></u></a>
+                <a href="index.php"><u><b>PhoVote</b></u></a>
                 <br><br><br>
             </span>
             

@@ -24,7 +24,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Search Results - Example Vote Site</title>
+        <title>Search Results - PhoVote</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="stylesheet" href="style.css" type="text/css">
